@@ -1,0 +1,2 @@
+# Dopa-Stock-
+minervini-screener
